@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hi Humans,
+
+Robert here, I am learning cpp.
