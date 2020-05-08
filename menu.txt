@@ -1,0 +1,15 @@
+French Fries
+Sides
+Crisp, crunchy warm sliced golden potatoes.
+Yes
+5.99
+Lasagna
+Entree
+Fresh baked pasta layered with sauce and vegetables.
+Yes
+10.99
+Pepsi
+Beverage
+Your favorite fizzy from our new fountain.
+Yes
+1.99
